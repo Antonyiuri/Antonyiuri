@@ -20,7 +20,8 @@ Meu nome é **Antony** tenho 23 anos, sou de Curitiba-PR e torço para o Athleti
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Antonyiuri&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Antonyiuri/dio-lab-open-source)
 
 ## Anime favorito😁​
-![Alt text](image.png)
+![image](https://github.com/Antonyiuri/Antonyiuri/assets/143660042/4335363f-fcf2-48a1-8b45-ca9602483ee0)
+
 
 ## Frase do dia☀️​
 "Se você não gosta do seu destino, não aceite. Em vez disso, tenha a coragem de mudá-lo do jeito que você quer que seja."
