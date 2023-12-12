@@ -7,7 +7,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antonyiuri&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Sobre mim:
-Meu nome é **Antony** tenho 23 anos, sou de Curitiba-PR e torço para o Athletico 🌪️​🔴​⚫​
+Meu nome é **Antony** tenho 23 anos, sou de Curitiba-PR 
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
